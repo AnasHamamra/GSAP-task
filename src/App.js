@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Hero from "./Hero";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Hero />
+      <main style={{ padding: "40px", color: "white", backgroundColor: "#111" }}>
+        <h2>Content Below</h2>
+        <p>Scroll to see the background fade out.</p>
+        <div style={{ height: "150vh" }}></div>
+      </main>
     </div>
   );
 }
-
-export default App;
