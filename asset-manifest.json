@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GSAP-task/static/css/main.ca3c1d6b.css",
+    "main.js": "/GSAP-task/static/js/main.378883c2.js",
+    "static/js/453.bdf38231.chunk.js": "/GSAP-task/static/js/453.bdf38231.chunk.js",
+    "index.html": "/GSAP-task/index.html",
+    "main.ca3c1d6b.css.map": "/GSAP-task/static/css/main.ca3c1d6b.css.map",
+    "main.378883c2.js.map": "/GSAP-task/static/js/main.378883c2.js.map",
+    "453.bdf38231.chunk.js.map": "/GSAP-task/static/js/453.bdf38231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca3c1d6b.css",
+    "static/js/main.378883c2.js"
+  ]
+}
